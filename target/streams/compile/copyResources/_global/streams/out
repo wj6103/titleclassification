@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/james/IdeaProjects/categoryClassification/src/main/resources/hdfs-site.xml,/Users/james/IdeaProjects/categoryClassification/target/scala-2.11/classes/hdfs-site.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/james/IdeaProjects/categoryClassification/src/main/resources/core-site.xml,/Users/james/IdeaProjects/categoryClassification/target/scala-2.11/classes/core-site.xml)[0m
